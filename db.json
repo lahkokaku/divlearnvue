@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "hello"
+    },
+    {
+      "id": 2,
+      "name": "world!"
+    },
+    {
+      "id": 3,
+      "name": "test"
+    }
+  ]
+}
